@@ -4,10 +4,9 @@
     {
         private static void Main()
         {
-            Movie m1 = new Movie();
-            m1.Title = "2001: A Space Odyssey";
+            Movie m1 = new Movie("2001: A Space Odyssey", 1968, 4.3d);
 
-            Console.WriteLine(m1.Title);
+            Console.WriteLine(m1);
 
         }
     }
