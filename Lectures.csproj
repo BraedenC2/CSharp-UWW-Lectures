@@ -7,4 +7,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="02 IntroToOOP.cs" />
+    <Compile Remove="Movie.cs" />
+  </ItemGroup>
+
 </Project>
