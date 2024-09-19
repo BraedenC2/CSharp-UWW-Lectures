@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <Compile Remove="02 IntroToOOP.cs" />
+    <Compile Remove="Arrays.cs" />
     <Compile Remove="Movie.cs" />
   </ItemGroup>
 
