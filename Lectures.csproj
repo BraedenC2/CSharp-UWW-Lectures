@@ -10,6 +10,7 @@
   <ItemGroup>
     <Compile Remove="02 IntroToOOP.cs" />
     <Compile Remove="Arrays.cs" />
+    <Compile Remove="FileIOPart1.cs" />
     <Compile Remove="Movie.cs" />
     <Compile Remove="TypeSemantics.cs" />
   </ItemGroup>
