@@ -11,6 +11,7 @@
     <Compile Remove="02 IntroToOOP.cs" />
     <Compile Remove="Arrays.cs" />
     <Compile Remove="FileIOPart1.cs" />
+    <Compile Remove="Inheritance.cs" />
     <Compile Remove="Movie.cs" />
     <Compile Remove="Recursion.cs" />
     <Compile Remove="TypeSemantics.cs" />

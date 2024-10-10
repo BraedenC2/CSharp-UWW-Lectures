@@ -13,5 +13,9 @@ namespace Lectures {
             Console.WriteLine("Meow");
         }
 
+        public override void BathTime() {
+            Console.WriteLine($"{Name} is a cat and refused to get in the bath.");
+        }
+
     }
 }

@@ -21,6 +21,10 @@ namespace Lectures {
 
         public abstract void Speak();
 
+        public virtual void BathTime() {
+            Console.WriteLine($"{Name} took a bath");
+        }
+
         public string Name {
             get => name;
             set {
