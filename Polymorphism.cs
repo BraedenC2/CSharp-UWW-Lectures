@@ -11,11 +11,11 @@ namespace Lectures {
 
             Animal[] animals = [
 
-                new Cat("Pickles", 17),
-                new Dog("Lexi", 8),
-                new Cat("Kitty", 20),
-                new Dog("Yoda", 14),
-                new Dog("Baylee", 12)
+                new Cat("Pickles", 17, "Black"),
+                new Dog("Lexi", 8, "Brown"),
+                new Cat("Kitty", 20, "Gray"),
+                new Dog("Yoda", 14, "Gray"),
+                new Dog("Baylee", 12, "White")
 
                 ];
 

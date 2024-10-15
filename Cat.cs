@@ -5,9 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Lectures {
-    public class Cat : Animal {
+    public class Cat : Mammal {
 
-        public Cat(string name, int age) : base(name, age) {}
+        public Cat(string name, int age, string furColor) : base(name, age, furColor) {}
 
         public override void Speak() {
             Console.WriteLine("Meow");
